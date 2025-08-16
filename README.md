@@ -105,5 +105,3 @@ MiniGram/
 
 Built with ❤️ by **Minahil**
 
-Would you like me to also add **screenshots section** 📷 in the README (placeholders for you to upload UI pics of login, feed, profile)?
-```
